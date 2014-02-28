@@ -27,4 +27,4 @@ console.log(mcp.getGpioBPinValue(0)); //get GPIO B Pin 0 value
 
 GPIO Port A is hardcoded as WRITE
 
-GPIO PORT B is hardcoded as READ
+GPIO Port B is hardcoded as READ
